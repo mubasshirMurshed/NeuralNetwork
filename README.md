@@ -1,4 +1,4 @@
-# neuralnetwork
+# NeuralNetwork
 Anything to do with my own personal neural network practice.
 
 Featuring nn.py which is my own neural network built from scratch using only Python list.
